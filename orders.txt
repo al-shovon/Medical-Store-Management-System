@@ -1,0 +1,32 @@
+Name: Shovon, Address: Hall 1, Phone: 017, Transaction ID: 1343fdf32
+--- Ordered Products ---
+1          Lifebuoy             80.00      2          160.00    
+15         Napa                 15.00      1          15.00     
+Grand Total: 175.00
+-----------------------------------------
+Name: Shovon, Address: Hall 1 YKSG 1, Phone: 01777, Transaction ID: trx9324
+Ordered Products: 
+152        Detol_Soap           65.00      5          325.00    
+Grand Total: 325.00
+--------------------------------------------
+
+Name: Abdullah, Address: YKSG-1 DIU Hall, Phone: 0131000, Transaction ID: trx7646
+Ordered Products: 
+152        Detol_Soap           65.00      3          195.00    
+Grand Total: 195.00
+--------------------------------------------
+
+Name: Abdullah, Address: YKSG-1, Phone: 017700, Transaction ID: Pay_In_Cash
+Ordered Products: 
+152        Detol_Soap           65.00      2          130.00    
+183        Hand_Wash            85.00      2          170.00    
+Grand Total: 300.00
+--------------------------------------------
+
+Name: Abdullah, Address: DIU Hall-1, Phone: 017700, Transaction ID: trx001
+Ordered Products: 
+152        Detol_Soap           65.00      2          130.00    
+144        Detergent            50.00      5          250.00    
+Grand Total: 380.00
+--------------------------------------------
+

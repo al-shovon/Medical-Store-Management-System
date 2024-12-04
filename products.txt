@@ -1,0 +1,11 @@
+152 Detol_Soap 65.00 6 Mart
+183 Hand_Wash 85.00 18 Mart
+144 Detergent 50.00 20 Mart
+211 Lifebouy 80.00 15 Mart
+116 Ceevit 25.00 90 Medicine
+217 Monas_10 236.00 12 Medicine
+208 Orsaline_N 5.00 100 Medicine
+515 Napa 15.00 30 Medicine
+231 Cetaphil 1000.00 3 Skine_Care
+430 Vaseline_Lotion 450.00 5 Skine_Care
+322 Nizoral 350.00 10 Skine_Care
